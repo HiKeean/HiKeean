@@ -1,4 +1,4 @@
-#👨🏼‍💻Hizkia Albertian
+👨🏼‍💻Hizkia Albertian
 
 **`Fullstack Developer`**
 
