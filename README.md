@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hikeean&label=Profile%20views&color=0e75b6&style=flat" alt="hikeean" /> </p>
 
-- 🔭 I’m currently working on **BCA Finance**
+- 🔭 I’m currently working on **PT. AJ C.A.R Member of Salim Group**
+- 🔭 I used to work at **BCA Finance**
+- 🔭 I used to work at **BCA MultiFinance**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
